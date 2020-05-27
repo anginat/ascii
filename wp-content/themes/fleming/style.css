@@ -1,5 +1,5 @@
 @charset "UTF-8";
-html {font-size: 16px;line-height: 1;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}
+html {font-size: 14px;line-height: 1;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}
 *, *:before, *:after {-webkit-box-sizing: inherit;-moz-box-sizing: inherit;box-sizing: inherit;}
 body {margin: 0;}
 article, aside, footer, header, nav, section {display: block;}
@@ -135,7 +135,7 @@ h1 a:hover, h1 a:focus, h2 a:hover, h2 a:focus, h3 a:hover, h3 a:focus, h4 a:hov
 body {background-color: #fff;color: #1c1717;font-family: Lato,Arial,sans-serif;font-size: 62.5%;line-height: 1.5rem;margin: 0;padding: 0;text-align: center;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
 #container {font-size: 1rem;line-height: 1.75em;padding: 0;text-align: center;width: 100%;}
 .site-wrapper-all {padding: 0;text-align: center;}
-.site-section-wrapper {margin: 0 auto;padding: 0;text-align: left;width: 1200px;}
+.site-section-wrapper {margin: 0 auto;padding: 0;text-align: center;width: 1300px;}
 li.cleaner, div.cleaner, div.divider {margin: 0;clear: both;font-size: 1px;height: 1px;line-height: 1px;}
 .centered, .title-center {text-align: center;}
 #site-preheader-search {background-color: #fff;border-bottom: solid 1px #ddd;display: none;padding: 50px 0;}
@@ -213,12 +213,12 @@ li.cleaner, div.cleaner, div.divider {margin: 0;clear: both;font-size: 1px;heigh
 #site-column-main .site-column-content-wrapper {padding: 0 50px;}
 #site-column-content, #site-column-main, #site-aside-primary, #site-aside-secondary {display: inline-block;vertical-align: top;}
 #site-aside-primary, #site-aside-secondary {font-size: .875rem;margin-bottom: 4rem;}
-#site-aside-primary {width: 20.83333333%;}
-#site-aside-secondary {width: 26.31578947%;}
-#site-column-main {margin-bottom: 4rem;width: 79.16666666%;}
+#site-aside-primary {width: 15%;}
+#site-aside-secondary {width: 15%;}
+#site-column-main {margin-bottom: 4rem;width: 85%;}
 #site-page-featured-image {margin: 0 0 50px;text-align: right;width: 100%;}
 .page-featured-image-wrapper {padding-left: 50px;}
-#site-column-content {width: 73.68421052%;}
+#site-column-content {width: 85%;}
 .page-sidebar-primary #site-column-content, .page-sidebar-secondary #site-column-main {width: 100%;}
 .page-sidebar-none #site-column-main {text-align: center;width: 100%;}
 .page-sidebar-none #site-column-content {margin-right: auto;margin-left: auto;text-align: left;width: 70.83333333%;}
@@ -245,10 +245,10 @@ li.cleaner, div.cleaner, div.divider {margin: 0;clear: both;font-size: 1px;heigh
 .site-archive-post .entry-descriptor {display: inline-block;font-size: 14px;line-height: 1.4em;margin-bottom: 1.25rem;}
 .entry-thumbnail .entry-descriptor {background-color: #910808;color: #fff;margin-bottom: 0;padding: 5px 10px;position: absolute;bottom: 10px;left: -10px;}
 .site-column-aside .widget_nav_menu {font-size: 1.125rem;}
-.site-column-aside .widget_nav_menu a {display: block;font-weight: 400;border: solid 1px #d4d4d4;border-width: 1px 1px 0;padding: 1rem 30px;}
+.site-column-aside .widget_nav_menu a {display: block;font-weight: 400;border: solid 1px #fff;border-width: 1px 1px 0;padding: 4px 2px;}
 .site-column-aside .widget_nav_menu a:hover, .site-column-aside .widget_nav_menu a:focus {text-decoration: underline;}
 .site-column-aside .widget_nav_menu .menu-item-has-children > a {border-right: solid 1px #d4d4d4;border-left: solid 1px #d4d4d4;}
-.site-column-aside .widget_nav_menu .menu-item-has-children > a, .site-column-aside .widget_nav_menu .menu-item > a {background-color: #e3e3e3;color: #282828;}
+.site-column-aside .widget_nav_menu .menu-item-has-children > a, .site-column-aside .widget_nav_menu .menu-item > a {background-color: #034ea2;color: #fff;}
 .site-column-aside .widget_nav_menu .menu-item-has-children .menu-item > a {background-color: #f2f2f2;color: #282828;padding: 10px 30px;}
 .site-column-aside .widget_nav_menu .menu-item-has-children .menu-item > a:hover, .site-column-aside .widget_nav_menu .menu-item-has-children .menu-item > a:focus {background-color: #fff;}
 .site-column-aside .widget_nav_menu .current-menu-item > a, .site-column-aside .widget_nav_menu .current-menu-item.menu-item-has-children > a, .site-column-aside .widget_nav_menu .current-page-ancestor > a {background-color: #910808;border-right: solid 1px #910808;border-left: solid 1px #910808;color: #fff;font-weight: bolder;}
