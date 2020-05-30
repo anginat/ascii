@@ -2,7 +2,31 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://asciivalues.com/</loc>
-		<lastmod>2020-05-27T16:02:58+00:00</lastmod>
+		<lastmod>2020-05-30T17:42:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://asciivalues.com/faq/what-is-the-ascii-value-of-a-to-z/</loc>
+		<lastmod>2020-05-30T17:57:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://asciivalues.com/tables/numbers/</loc>
+		<lastmod>2020-05-30T16:13:54+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://asciivalues.com/tables/small-letters/</loc>
+		<lastmod>2020-05-30T16:13:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://asciivalues.com/tables/special-characters/</loc>
+		<lastmod>2020-05-30T16:13:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://asciivalues.com/tables/capital-letters/</loc>
+		<lastmod>2020-05-30T16:12:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://asciivalues.com/faq/space/</loc>
+		<lastmod>2020-05-30T10:38:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://asciivalues.com/tools/hex-to-decimal-converter/</loc>
@@ -29,36 +53,12 @@
 		<lastmod>2020-05-27T16:37:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://asciivalues.com/tables/special-characters/</loc>
-		<lastmod>2020-05-27T16:31:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://asciivalues.com/tables/small-letters/</loc>
-		<lastmod>2020-05-27T16:30:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://asciivalues.com/tables/capital-letters/</loc>
-		<lastmod>2020-05-27T16:29:06+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://asciivalues.com/tables/numbers/</loc>
-		<lastmod>2020-05-27T16:20:33+00:00</lastmod>
-	</url>
-	<url>
 		<loc>https://asciivalues.com/programs/c-program-to-find-ascii-value-of-a-character/</loc>
 		<lastmod>2020-05-27T15:59:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://asciivalues.com/news/on-off-keying-gets-the-communications-job-done/</loc>
 		<lastmod>2020-05-27T15:53:38+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://asciivalues.com/faq/what-is-the-ascii-value-of-a-to-z/</loc>
-		<lastmod>2020-05-27T15:52:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://asciivalues.com/faq/space/</loc>
-		<lastmod>2020-05-27T15:49:53+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://asciivalues.com/faq/capital-alphabet-a/</loc>
