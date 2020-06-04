@@ -163,7 +163,7 @@ li.cleaner, div.cleaner, div.divider {margin: 0;clear: both;font-size: 1px;heigh
 #site-header-extra .widget {display: inline-block;margin: 0;vertical-align: middle;}
 #site-header-extra .widget + .widget {margin: 0 0 0 30px;}
 .navbar-header {display: none;}
-.site-section-wrapper-primary-menu {background-color: #910808;color: #fff;padding: 0 50px;}
+.site-section-wrapper-primary-menu {background-color: #000000;color: #fff;padding: 0 50px;}
 .site-section-wrapper-primary-menu .academia-notice {line-height: 1.75em;padding: 20px 0;text-align: center;}
 .site-section-wrapper-primary-menu .academia-notice a {color: #fff;text-decoration: underline;}
 #site-primary-nav {display: block;font-family: Lato,Arial,sans-serif;font-size: 1rem;font-weight: 700;line-height: 1em;z-index: 3;}
